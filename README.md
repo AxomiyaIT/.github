@@ -1,38 +1,65 @@
+# Axomiya IT Services
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Axomiya%20IT%20Services&fontSize=60&fontColor=00C6FF&fontAlignY=40&animation=fadeIn" width="100%" />
+  
+  <p align="center">
+    <strong>Engineering Intelligent Systems • Automating Growth • Scaling Infrastructure</strong>
+  </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:00C6FF&height=200&section=header&text=Axomiya%20IT%20Services&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI-Powered%20Systems%20%E2%80%A2%20Automation%20%E2%80%A2%20Scalable%20Digital%20Infrastructure&descSize=15&descAlignY=62&animation=twinkling"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=650&lines=We+prototype+fast.+We+ship+often.;AI+Automation+%E2%86%92+Real+Business+Results.;From+India+%E2%80%94+Built+for+the+World." alt="Typing SVG" />
-
-<br/><br/>
-
-[![Website](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=netlify&logoColor=white)](https://axomiyait.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axomiyaitservices@gmail.com)
-[![X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AxomiyaITServe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/axomiya-it-services/)
-
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-00C6FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Speed-MVP%20in%202%20Weeks-white?style=flat-square" />
+    <img src="https://img.shields.io/badge/Origin-Assam%2C%20India-orange?style=flat-square" />
+  </p>
 </div>
 
 ---
 
-## About
+### 💡 The Mission
+Axomiya IT Services is an **AI-first technology partner**. We bridge the gap between complex AI research and practical business ROI. We don't just build software; we build autonomous systems that allow businesses to scale without increasing headcount.
 
-**Axomiya IT Services** is an AI-first technology company. We build intelligent automation systems, LLM-powered agents, and high-performance web platforms that help businesses scale without scaling their headcount.
-
-> *Fast to ship. Built to last. Measured by results.*
+> **We prototype fast. We ship often. We measure success by your bottom line.**
 
 ---
 
-## Services
+### 🛠️ Core Capabilities
 
-| Service | Description |
-|---|---|
-| 🤖 **AI Agents & Automation** | Custom LLM agents, workflow bots, and lead generation systems |
-| 🌐 **Web App Development** | Full-stack applications built with React, Next.js, and Node.js |
-| ⚙️ **Business Process Automation** | End-to-end automation for ops, sales, and support |
-| 🚀 **SaaS & MVP Development** | Idea to deployed product in weeks, not months |
+| Service | Deliverable |
+| :--- | :--- |
+| **AI Agents & LLMO** | Custom autonomous agents for lead gen, support, and workflow operations. |
+| **Full-Stack Web** | High-performance platforms built with Next.js, React, and Node.js. |
+| **Business Automation** | End-to-end integration of internal ops to eliminate manual tasks. |
+| **SaaS & MVP Launch** | Rapid development cycles to get your product to market in weeks. |
+
+---
+
+### 💻 Tech Stack
+- **Languages:** TypeScript, Python, JavaScript
+- **Frameworks:** Next.js, Tailwind CSS, FastAPI, LangChain
+- **Infrastructure:** AWS, Vercel, Docker, PostgreSQL
+- **AI/ML:** OpenAI SDK, Pinecone, HuggingFace, Custom LLM fine-tuning
+
+---
+
+### 🚀 Our Engagement Process
+1. **Audit:** We analyze your current workflows to find high-impact automation gaps.
+2. **Build:** A functional MVP is delivered in **under 14 days**.
+3. **Scale:** Continuous optimization for reliability and performance.
+4. **Ownership:** You retain 100% of the code and IP from day one.
+
+---
+
+### 📬 Let's Build Something Great
+We are currently accepting new projects for Q2 2026.
+
+- **Website:** [axomiyait.netlify.app](https://axomiyait.netlify.app)
+- **Email:** [axomiyaitservices@gmail.com](mailto:axomiyaitservices@gmail.com)
+- **Location:** Assam, India — *Building for the World.*
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&section=footer&text=Building%20AI%20Systems%20That%20Actually%20Work&fontSize=18&fontColor=00C6FF" width="100%" />
+</div>| 🚀 **SaaS & MVP Development** | Idea to deployed product in weeks, not months |
 
 ---
 
