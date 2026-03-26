@@ -4,16 +4,15 @@
 
 <br/>
 
-<a href="https://axomiyait.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=650&lines=We+prototype+fast.+We+ship+often.;AI+Automation+%E2%86%92+Real+Business+Results.;From+Guwahati%2C+Assam+%E2%80%94+Built+for+the+World." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=650&lines=We+prototype+fast.+We+ship+often.;AI+Automation+%E2%86%92+Real+Business+Results.;From+India+%E2%80%94+Built+for+the+World." alt="Typing SVG" />
 
 <br/><br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-axomiyait.netlify.app-0078D4?style=for-the-badge)](https://axomiyait.netlify.app/)
-[![Email](https://img.shields.io/badge/✉️_Email-axomiyaitservices%40gmail.com-D14836?style=for-the-badge)](mailto:axomiyaitservices@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Location-Guwahati%2C_Assam-00897B?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/🟢_Status-Accepting_Clients-brightgreen?style=for-the-badge)]()
+[![Website](https://img.shields.io/badge/Website-axomiyait.netlify.app-0078D4?style=for-the-badge&logo=netlify&logoColor=white)](https://axomiyait.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axomiyaitservices@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow_Us-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AxomiyaITServe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/axomiya-it-services/)
+[![Status](https://img.shields.io/badge/Status-Accepting_Clients-brightgreen?style=for-the-badge)]()
 
 </div>
 
@@ -21,20 +20,81 @@
 
 ---
 
-## 🧭 About
+## About
 
-**Axomiya IT Services** is an AI-first technology company based in Guwahati, Assam. We design and deploy intelligent systems — from LLM-powered agents to full-stack web platforms — that help businesses replace manual bottlenecks with automated, scalable infrastructure.
+**Axomiya IT Services** is an AI-first technology company. We design and deploy intelligent systems — from LLM-powered agents to full-stack web platforms — that help businesses replace manual bottlenecks with automated, scalable infrastructure.
 
-We believe great technology should be fast to ship, easy to maintain, and measured by real outcomes — not slide decks.
+> *We believe great technology should be fast to ship, easy to maintain, and measured by real outcomes.*
 
 ---
 
-## 🛠️ Core Services
+## Services
 
-| Service | Description |
+| | Service | Description |
+|---|---|---|
+| 🤖 | **AI Agents & Automation** | Custom LLM agents, workflow bots, and lead generation systems |
+| 🌐 | **Web App & Platform Dev** | Full-stack applications built with React, Next.js, and Node.js |
+| ⚙️ | **Business Process Automation** | End-to-end automation for ops, sales, and support pipelines |
+| 🚀 | **SaaS & MVP Development** | Idea to deployed product in weeks, not months |
+| 📈 | **SEO & Digital Growth** | Programmatic SEO, conversion optimization, and analytics |
+
+---
+
+## Tech Stack
+
+**AI & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## How We Work
+
+```
+  DISCOVER ──► BUILD ──► SCALE ──► SUPPORT
+```
+
+| Phase | What Happens |
 |---|---|
-| 🤖 **AI Agents & Automation** | Custom LLM agents, workflow bots, and lead generation systems |
-| 🌐 **Web App & Platform Dev** | Full-stack apps built with React, Next.js, and Node.js |
+| **Discover** | Audit your workflows, identify automation opportunities |
+| **Build** | Rapid MVP — working product in under 2 weeks |
+| **Scale** | Optimize for performance, reliability, and growth |
+| **Support** | Continuous iteration and system improvements |
+
+---
+
+## Connect
+
+[![Website](https://img.shields.io/badge/🌐_Visit_Website-axomiyait.netlify.app-0078D4?style=for-the-badge)](https://axomiyait.netlify.app/)
+[![Email](https://img.shields.io/badge/✉️_Email_Us-axomiyaitservices%40gmail.com-D14836?style=for-the-badge)](mailto:axomiyaitservices@gmail.com)
+[![X](https://img.shields.io/badge/𝕏_Follow_on_X-@AxomiyaITServe-000000?style=for-the-badge)](https://x.com/AxomiyaITServe)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Axomiya_IT_Services-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/axomiya-it-services/)
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:0D1117&height=130&section=footer&text=Building%20AI%20Systems%20That%20Actually%20Work&fontSize=16&fontColor=ffffff&fontAlignY=65"/>
+
+</div>| 🌐 **Web App & Platform Dev** | Full-stack apps built with React, Next.js, and Node.js |
 | ⚙️ **Business Process Automation** | End-to-end automation for ops, sales, and support pipelines |
 | 🚀 **SaaS & MVP Development** | Idea to deployed product in weeks, not months |
 | 📈 **SEO & Digital Growth** | Programmatic SEO, conversion optimization, and analytics |
