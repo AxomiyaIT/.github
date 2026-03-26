@@ -1,38 +1,36 @@
+# Axomiya IT Services | AI-First Systems Architecture
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=AXOMIYA%20IT%20SERVICES&fontSize=70&fontColor=00C6FF&desc=Intelligent%20Automation%20•%20LLM%20Systems%20•%20Scalable%20Infrastructure&descSize=20&descAlignY=65" width="100%" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:00C6FF&height=200&section=header&text=Axomiya%20IT%20Services&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI-Powered%20Systems%20%E2%80%A2%20Automation%20%E2%80%A2%20Scalable%20Digital%20Infrastructure&descSize=15&descAlignY=62&animation=twinkling"/>
+  <br/>
 
-<br/>
+  ### ⚡️ Build Fast. Scale Lean. Ship Often.
+  **Bridging the gap between AI hype and real-world business ROI.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=650&lines=We+prototype+fast.+We+ship+often.;AI+Automation+%E2%86%92+Real+Business+Results.;From+India+%E2%80%94+Built+for+the+World." alt="Typing SVG" />
-
-<br/><br/>
-
-[![Website](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=netlify&logoColor=white)](https://axomiyait.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axomiyaitservices@gmail.com)
-[![X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AxomiyaITServe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/axomiya-it-services/)
-
+  [Website](https://axomiyait.netlify.app) • [Email Us](mailto:axomiyaitservices@gmail.com) • [LinkedIn](https://www.linkedin.com/company/axomiya-it-services)
 </div>
 
 ---
 
-## About
+### 🏛️ The Engineering Standard
+We don't just "write code." We architect autonomous ecosystems. **Axomiya IT Services** operates at the intersection of Large Language Models (LLMs) and high-performance digital infrastructure.
 
-**Axomiya IT Services** is an AI-first technology company. We build intelligent automation systems, LLM-powered agents, and high-performance web platforms that help businesses scale without scaling their headcount.
-
-> *Fast to ship. Built to last. Measured by results.*
+- **Outcome-Oriented:** We solve bottlenecks, we don't just add features.
+- **Velocity-First:** Our internal frameworks allow us to move from **Idea → Production in 14 days.**
+- **Pure Ownership:** You own 100% of the IP, the code, and the infrastructure. No vendor lock-in.
 
 ---
 
-## Services
+### 🛠️ Core Stack & Specializations
 
-| Service | Description |
-|---|---|
-| 🤖 **AI Agents & Automation** | Custom LLM agents, workflow bots, and lead generation systems |
-| 🌐 **Web App Development** | Full-stack applications built with React, Next.js, and Node.js |
-| ⚙️ **Business Process Automation** | End-to-end automation for ops, sales, and support |
-| 🚀 **SaaS & MVP Development** | Idea to deployed product in weeks, not months |
+```json
+{
+  "AI_Systems": ["LLM Agents", "RAG Pipelines", "Automated Workflows"],
+  "Development": ["Next.js 14", "FastAPI", "PostgreSQL", "Tailwind"],
+  "Cloud": ["AWS", "Vercel", "Docker", "Supabase"],
+  "Performance": ["99+ Lighthouse Score", "Edge Deployment", "Zero-Latency AI"]
+}| 🚀 **SaaS & MVP Development** | Idea to deployed product in weeks, not months |
 
 ---
 
