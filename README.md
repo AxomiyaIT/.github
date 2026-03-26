@@ -1,24 +1,82 @@
-# Axomiya IT Services
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Axomiya%20IT%20Services&fontSize=60&fontColor=00C6FF&fontAlignY=40&animation=fadeIn" width="100%" />
-  
-  <p align="center">
-    <strong>Engineering Intelligent Systems • Automating Growth • Scaling Infrastructure</strong>
-  </p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-00C6FF?style=flat-square" />
-    <img src="https://img.shields.io/badge/Speed-MVP%20in%202%20Weeks-white?style=flat-square" />
-    <img src="https://img.shields.io/badge/Origin-Assam%2C%20India-orange?style=flat-square" />
-  </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:00C6FF&height=200&section=header&text=Axomiya%20IT%20Services&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI-Powered%20Systems%20%E2%80%A2%20Automation%20%E2%80%A2%20Scalable%20Digital%20Infrastructure&descSize=15&descAlignY=62&animation=twinkling"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=650&lines=We+prototype+fast.+We+ship+often.;AI+Automation+%E2%86%92+Real+Business+Results.;From+India+%E2%80%94+Built+for+the+World." alt="Typing SVG" />
+
+<br/><br/>
+
+[![Website](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=netlify&logoColor=white)](https://axomiyait.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axomiyaitservices@gmail.com)
+[![X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AxomiyaITServe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/axomiya-it-services/)
+
 </div>
 
 ---
 
-### 💡 The Mission
-Axomiya IT Services is an **AI-first technology partner**. We bridge the gap between complex AI research and practical business ROI. We don't just build software; we build autonomous systems that allow businesses to scale without increasing headcount.
+## About
 
+**Axomiya IT Services** is an AI-first technology company. We build intelligent automation systems, LLM-powered agents, and high-performance web platforms that help businesses scale without scaling their headcount.
+
+> *Fast to ship. Built to last. Measured by results.*
+
+---
+
+## Services
+
+| Service | Description |
+|---|---|
+| 🤖 **AI Agents & Automation** | Custom LLM agents, workflow bots, and lead generation systems |
+| 🌐 **Web App Development** | Full-stack applications built with React, Next.js, and Node.js |
+| ⚙️ **Business Process Automation** | End-to-end automation for ops, sales, and support |
+| 🚀 **SaaS & MVP Development** | Idea to deployed product in weeks, not months |
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## How We Work
+
+| Phase | What Happens |
+|---|---|
+| 🔍 **Discover** | Audit workflows, identify high-impact automation opportunities |
+| ⚡ **Build** | Working MVP shipped in under 2 weeks |
+| 📈 **Scale** | Optimize for performance, reliability, and growth |
+| 🔁 **Support** | Continuous iteration — you own all code and IP |
+
+---
+
+<div align="center">
+
+<br/>
+
+*Ready to automate your growth?*
+
+**[axomiyait.netlify.app](https://axomiyait.netlify.app/) · [axomiyaitservices@gmail.com](mailto:axomiyaitservices@gmail.com)**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:0D1117&height=130&section=footer&text=Building%20AI%20Systems%20That%20Actually%20Work&fontSize=16&fontColor=ffffff&fontAlignY=65"/>
+
+</div>
 > **We prototype fast. We ship often. We measure success by your bottom line.**
 
 ---
